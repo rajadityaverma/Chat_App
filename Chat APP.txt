@@ -1,0 +1,22 @@
+Q.what we learn
+we use socket programming 
+multithreading
+networking
+create GUI
+
+Q.run in which device
+we can connect different computer or same computer also
+
+REQUIREMENT
+java basic (OOPS)
+reading and writing (buffer reader)
+networking (socket programing)
+swing (GUI/JAVA FX)
+multithreading
+  
+STEPS
+1- Server socket
+2- client
+3 - request
+4- stream 
+5 - read and write
